@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t449CfNsdHF3x979dPxJb5/Pi0/dccQ0eHv51nl1bBw=",
+  "Source": "UserManagementService",
+  "BasePath": "_content/UserManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+/* ViewReports.css */
+.view-reports-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh; /* Ensure the container takes up the full height of the viewport */
+  text-align: center;
+}
+
+.chart-container {
+  width: 20px; /* Adjust the size as needed */
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

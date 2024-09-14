@@ -1,0 +1,46 @@
+.property-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative; /* Ensure the heart icon is positioned relative to the card */
+}
+
+.card-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card-content {
+  flex: 1;
+  position: relative; /* Position the heart icon absolutely within this container */
+}
+
+.card-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  padding: 10px;
+}
+
+/* New styles for the heart icon */
+.favorite-icon-container {
+  position: absolute; /* Position it absolutely within the .card-content */
+  top: 10px; /* Adjust positioning as needed */
+  right: 10px; /* Adjust positioning as needed */
+  cursor: pointer; /* Change cursor to pointer to indicate clickable icon */
+}
+
+.favorite-icon {
+  font-size: 24px; /* Adjust size of the heart icon */
+  color: #ff0000; /* Red color for the filled heart */
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.favorite-icon:hover {
+  color: #cc0000; /* Darker red on hover */
+}

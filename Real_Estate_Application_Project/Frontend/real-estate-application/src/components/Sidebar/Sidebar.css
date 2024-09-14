@@ -1,0 +1,50 @@
+/* Sidebar styling */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -250px; /* Hide sidebar initially */
+    width: 250px;
+    height: 100%;
+    background: #333;
+    color: #fff;
+    transition: left 0.3s ease;
+    z-index: 1000;
+  }
+  
+  .sidebar.open {
+    left: 0; /* Show sidebar when open */
+  }
+  
+  .sidebar .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .sidebar nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 60px 0 0 0; /* Adjust margin to make room for the close button */
+  }
+  
+  .sidebar nav ul li {
+    margin: 0;
+  }
+  
+  .sidebar nav ul li a {
+    display: block;
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    border-bottom: 1px solid #444;
+  }
+  
+  .sidebar nav ul li a:hover {
+    background: #555;
+  }
+  

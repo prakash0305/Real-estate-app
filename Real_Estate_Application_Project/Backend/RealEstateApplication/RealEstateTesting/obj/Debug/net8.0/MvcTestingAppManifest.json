@@ -1,0 +1,6 @@
+{
+  "ComparisonMicroervice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\ComparisonToolsService",
+  "ContactService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\ContactService",
+  "PropertyCatalogueService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService",
+  "UserManagementService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\UserManagementService"
+}

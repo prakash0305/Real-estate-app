@@ -1,0 +1,28 @@
+/* src/App.css */
+
+/* Ensure the carousel takes up 40% of the viewport height */
+.carousel {
+  height: 40vh;
+  width: 100%;
+  margin-right: auto;
+}
+
+.carousel-inner {
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.carousel-inner img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: cover;
+  width: 100%;
+}

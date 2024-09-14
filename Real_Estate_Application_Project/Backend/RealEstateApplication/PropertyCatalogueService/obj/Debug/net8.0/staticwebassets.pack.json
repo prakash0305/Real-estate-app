@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\back.jpg",
+      "PackagePath": "staticwebassets\\images\\back.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img10.jpg",
+      "PackagePath": "staticwebassets\\images\\img10.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img11.jpg",
+      "PackagePath": "staticwebassets\\images\\img11.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img12.jpg",
+      "PackagePath": "staticwebassets\\images\\img12.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img13.jpg",
+      "PackagePath": "staticwebassets\\images\\img13.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img14.jpg",
+      "PackagePath": "staticwebassets\\images\\img14.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img15.jpg",
+      "PackagePath": "staticwebassets\\images\\img15.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img16.jpg",
+      "PackagePath": "staticwebassets\\images\\img16.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\images\\img5.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img6.jpg",
+      "PackagePath": "staticwebassets\\images\\img6.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img7.jpg",
+      "PackagePath": "staticwebassets\\images\\img7.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img8.jpg",
+      "PackagePath": "staticwebassets\\images\\img8.jpg"
+    },
+    {
+      "Id": "C:\\Project\\Real_Estate_Application_Project\\Backend\\RealEstateApplication\\PropertyCatalogueService\\wwwroot\\images\\img9.jpg",
+      "PackagePath": "staticwebassets\\images\\img9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PropertyCatalogueService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PropertyCatalogueService.props",
+      "PackagePath": "build\\PropertyCatalogueService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PropertyCatalogueService.props",
+      "PackagePath": "buildMultiTargeting\\PropertyCatalogueService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PropertyCatalogueService.props",
+      "PackagePath": "buildTransitive\\PropertyCatalogueService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
